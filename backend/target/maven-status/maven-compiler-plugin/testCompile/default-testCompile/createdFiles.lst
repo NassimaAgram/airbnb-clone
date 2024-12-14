@@ -1,0 +1,5 @@
+com\example\airbnbclone\PictureServiceTest.class
+com\example\airbnbclone\TenantServiceTest.class
+com\example\airbnbclone\UserServiceTest.class
+com\example\airbnbclone\BookingServiceTest.class
+com\example\airbnbclone\LandlordServiceTest.class
